@@ -27,3 +27,5 @@ PHP Internals Material
  - [Understanding PHP objects](http://fr.slideshare.net/jpauli/understanding-php-objects)
  - [Understanding PHP memory](http://fr.slideshare.net/jpauli/mysqlnd)
 
+## LXR
+ - http://lxr.php.net/
