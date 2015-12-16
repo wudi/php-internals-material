@@ -16,6 +16,9 @@ PHP Internals Material
  - http://www.nowamagic.net/librarys/veda/detail/1285
 
 ## Video
+ - https://www.youtube.com/watch?v=vLD4cUHMT5I (PHP 7 Extension Development with Joe Watkins)
+ - https://www.youtube.com/watch?v=AloIn2t7bWc (Developing a Resizable-Indexed Array as a PHP Extension with Joe Watkins)
+ - https://www.youtube.com/watch?v=5FoHyfu8meM (PHP Extension Development for Beginners with Joe Watkins)
  - https://www.youtube.com/watch?v=snGkSg-lfJw (PHP objects internal design with Julien Pauli)
 
 ## Slide PPT
