@@ -5,25 +5,25 @@ PHP Internals Material
 ## Willing to contribution
 
 ## Books
-- http://www.walu.cc/phpbook/ 《Extending and Embedding PHP》 in Chinese
-- http://www.phpinternalsbook.com/ 《PHP Internals Book》
-- http://www.php-internals.com/ 《Think In PHP Internals》
+- [《Extending and Embedding PHP》 in Chinese](http://www.walu.cc/phpbook/)
+- [《PHP Internals Book》](http://www.phpinternalsbook.com/)
+- [《Think In PHP Internals》in Chinese](http://www.php-internals.com/)
 
 ## Blog
- - http://www.laruence.com/ (Core Developer)
- - http://nikic.github.io/ (Core Developer)
- - http://blog.csdn.net/a600423444
- - http://www.nowamagic.net/librarys/veda/detail/1285
+ - [@Laruence](https://github.com/laruence)  http://www.laruence.com/
+ - [@Nikita Popov](https://github.com/nikic)  http://nikic.github.io/
+ - [@Anatol Belski](https://github.com/weltling)  http://belski.net/
+ - [nowamagic](http://www.nowamagic.net/librarys/veda/detail/1285)
 
 ## Video
- - https://www.youtube.com/watch?v=vLD4cUHMT5I (PHP 7 Extension Development with Joe Watkins)
- - https://www.youtube.com/watch?v=AloIn2t7bWc (Developing a Resizable-Indexed Array as a PHP Extension with Joe Watkins)
- - https://www.youtube.com/watch?v=5FoHyfu8meM (PHP Extension Development for Beginners with Joe Watkins)
- - https://www.youtube.com/watch?v=snGkSg-lfJw (PHP objects internal design with Julien Pauli)
+ - [PHP 7 Extension Development with Joe Watkins](https://www.youtube.com/watch?v=vLD4cUHMT5I)
+ - [Developing a Resizable-Indexed Array as a PHP Extension with Joe Watkins](https://www.youtube.com/watch?v=AloIn2t7bWc)
+ - [PHP Extension Development for Beginners with Joe Watkins](https://www.youtube.com/watch?v=5FoHyfu8meM)
+ - [PHP objects internal design with Julien Pauli](https://www.youtube.com/watch?v=snGkSg-lfJw)
 
 ## Slide PPT
- - http://fr.slideshare.net/jpauli/php-extensionsworkshop (Php extensions workshop)
- - http://fr.slideshare.net/jpauli/understanding-php-memory (Understanding PHP memory)
- - http://fr.slideshare.net/jpauli/understanding-php-objects (Understanding PHP objects)
- - http://fr.slideshare.net/jpauli/mysqlnd (Understanding PHP memory)
+ - [PHP extensions workshop](http://fr.slideshare.net/jpauli/php-extensionsworkshop)
+ - [Understanding PHP memory](http://fr.slideshare.net/jpauli/understanding-php-memory)
+ - [Understanding PHP objects](http://fr.slideshare.net/jpauli/understanding-php-objects)
+ - [Understanding PHP memory](http://fr.slideshare.net/jpauli/mysqlnd)
 
