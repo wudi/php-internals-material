@@ -15,6 +15,9 @@
  - [@Anatol Belski](https://github.com/weltling)  http://belski.net/
  - [nowamagic](http://www.nowamagic.net/librarys/veda/detail/1285)
 
+## Github
+ - [php7-internal by laruence](https://github.com/laruence/php7-internal)
+
 ## (视频) Videos
  - [PHP 7 Extension Development with Joe Watkins](https://www.youtube.com/watch?v=vLD4cUHMT5I)
  - [Developing a Resizable-Indexed Array as a PHP Extension with Joe Watkins](https://www.youtube.com/watch?v=AloIn2t7bWc)
