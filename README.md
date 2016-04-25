@@ -30,5 +30,9 @@
  - [Understanding PHP objects](http://fr.slideshare.net/jpauli/understanding-php-objects)
  - [Understanding PHP memory](http://fr.slideshare.net/jpauli/mysqlnd)
 
+## (邮件) Emails
+ - [ PHP 最新邮件交流记录](http://php.markmail.org/search/?q=)
+ - [ PHP 内核组的内部issues记录](http://news.php.net/php.internals)
+ 
 ## (其他) Others
  - [ PHP LXR 在线代码查看工具](http://lxr.php.net/)
